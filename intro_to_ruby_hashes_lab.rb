@@ -12,7 +12,7 @@ def monopoly_with_second_tier
     :rent_in_dollars=>{},
     :names=>{}
  }
- return base_hash
+ puts base_hash
 end
 
 def monopoly_with_third_tier
